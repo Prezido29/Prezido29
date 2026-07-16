@@ -46,8 +46,4 @@ I'm an aspiring **Cloud & DevOps Engineer** focused on building and automating c
 * **Operating System:** Linux
 
 ## Connect With Me
-
-* [**LinkedIn**](https://www.linkedin.com/in/ikechukwu-victor-mba-bb796738a/)
-
-
 * [**LinkedIn**](https://www.linkedin.com/in/ikechukwu-victor-mba-bb796738a/)
