@@ -1,4 +1,4 @@
-# Hi, I'm Victor (Prezido)
+# Hi, I'm Victor (Prezido) 🙂
 
 I'm an aspiring **Cloud & DevOps Engineer** focused on building and automating cloud infrastructure. I enjoy working with AWS, Kubernetes, Terraform, Docker, and CI/CD pipelines to deploy applications reliably and efficiently.
 
@@ -10,7 +10,7 @@ I'm an aspiring **Cloud & DevOps Engineer** focused on building and automating c
 * Implementing CI/CD with GitHub Actions and ArgoCD
 * Learning monitoring with Prometheus and Grafana
 
-## Tech Stack
+## Top Technologies I Use
 
 * **Cloud:** AWS
 * **Infrastructure as Code:** Terraform
